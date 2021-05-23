@@ -1,0 +1,10 @@
+Catatan sementara :
+Tambahan untuk template.
+
+-About us di isi dengan data owner dan sejarah singkat
+-Back end ditambah form pemesanan
+-Membuat tampilan antrian pemesanan secara asc
+
+Minus
+
+-Assets dari toko (foto menu dan foto pendukung lainnya)

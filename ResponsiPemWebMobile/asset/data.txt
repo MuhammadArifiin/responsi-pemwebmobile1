@@ -1,0 +1,35 @@
+Nama Usaha : D'Corner Coffee
+Jl. Cakra Buana (Perempatan Jl.Agung)
+
+Menu Coffee
+1. DC Coffee
+2. Kopi Susu Gula Aren
+3. Latte
+4. Cappucino
+5. Flavour Latte
+6. Bitter Sweet
+7. Candy Land
+8. Americano
+
+Menu Non-Coffee
+1. Green Tea
+2. Taro
+3. Red Velvet
+4. Coklat
+5. Blue Lagoon
+6. Mojito
+
+Profile Pemilik Usaha
+Nama : Andinu Wahyu Saputra
+Umur : 20 tahun
+Pekerjaan : Mahasiswa Teknik Pertambangan Universitas Palangka Raya
+
+Sejarah singkat Owner Andinu Wahyu Saputra. 
+Pertama kali masuk dunia kopi pada tahun 2016 bulan 11, 
+bekerja di coffeeshop selama 3 tahun di malang 
+dan pernah mengikuti perlombaan aeropress dari tingkat kota hingga nasional, 
+menang di kota dan provinsi
+
+
+D'Corner Coffee adalah sebuah cafe yang menyediakan berbagai macam minuman kopi dan non-kopi. D'Corner Coffee berlokasi di Jalan Jl. Cakra Buana (Perempatan Jl.Agung), toko kami akhirnya bisa menjangkau pasar yang lebih luas lagi melalui internet.
+D'Corner Coffee didirikan oleh Mas Andinu Wahyu Saputra pada November 2016. Dalam memberi layanan, kami selalu mencoba memberi persembahan terbaik kepada siapapun. Selain itu kami juga selalu menjunjung tinggi nilai-nilai etika yang baik, seperti kejujuran, ketepatan, dan profesionalitas dalam berbisnis.
