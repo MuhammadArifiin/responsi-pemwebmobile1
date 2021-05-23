@@ -190,8 +190,8 @@
               <p><?php 
                 echo "Ikuti Sosial Media kami untuk mendapatkan informasi tentang penawaran khusus produk kami.";
               ?></p>
-              <div class="tm-social-icons-container">
-                <a href="https://www.instagram.com/dcornercoffeepky/" class="tm-social-icon"><i class="fa fa-instagram"></i></a>
+              <div class="tm-social-icons-container"> <!--Akun media sosial official D'Corner Coffee-->
+                <a href="https://www.instagram.com/dcornercoffeepky/" class="tm-social-icon"><i class="fa fa-instagram"></i></a> <!--Akun media sosial official D'Corner Coffee-->
                 <a href="#" class="tm-social-icon"><i class="fa fa-facebook"></i></a>
                 <a href="#" class="tm-social-icon"><i class="fa fa-twitter"></i></a>
                 <a href="#" class="tm-social-icon"><i class="fa fa-youtube"></i></a>
