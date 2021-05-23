@@ -110,6 +110,7 @@
         </section>
       </div>
     </div> 
+  <!-- Footer -->
     <footer>
       <div class="tm-black-bg">
         <div class="container">
