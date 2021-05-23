@@ -1,3 +1,25 @@
+<?php
+  require 'connection.php';
+
+  if(isset($_POST["submit"])) {
+    if (ins_pesan($_POST)>0){
+      echo "
+      <script>
+        alert('data berhasil ditambahkan!');
+        document.location.href = 'contact.php';
+      </script>
+      ";
+    } else {
+      echo "
+      <script>
+        alert('data gagal ditambahkan!');
+        document.location.href = 'contact.php';
+      </script>
+      ";
+    }
+  }
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,16 +91,16 @@
           <form action="#" method="post" class="tm-contact-form">
             <div class="col-lg-6 col-md-6">
               <div class="form-group">
-                <input type="text" id="contact_name" class="form-control" placeholder="NAME" />
+                <input type="text" name="contact_name" id="contact_name" class="form-control" placeholder="NAME" />
               </div>
               <div class="form-group">
-                <input type="email" id="contact_email" class="form-control" placeholder="EMAIL" />
+                <input type="email" name="contact_email" id="contact_email" class="form-control" placeholder="EMAIL" />
               </div>
               <div class="form-group">
-                <input type="text" id="contact_subject" class="form-control" placeholder="SUBJECT" />
+                <input type="text" name="contact_subject" id="contact_subject" class="form-control" placeholder="SUBJECT" />
               </div>
               <div class="form-group">
-                <textarea id="contact_message" class="form-control" rows="6" placeholder="MESSAGE"></textarea>
+                <textarea name="contact_message" id="contact_message" class="form-control" rows="6" placeholder="MESSAGE"></textarea>
               </div>
               <div class="form-group">
                 <button class="tm-more-button" type="submit" name="submit">Send message</button> 
