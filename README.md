@@ -1,7 +1,7 @@
 # Responsi Praktikum Pemrograman Web dan Mobile 1
 
 Merupakan project yang dibuat untuk memenuhi Responsi Praktikum Mata Kuliah Pemrograman Web dan Mobile 1. Project ini dikerjakan oleh :
--Oscar Oktorian Almando (CEO)
+-Oscar Oktorian Almando 193020503037 (CEO)
 -Muhammad Arifin 193020503025 (CTO)
 -Evan (Data Analyst)
 -Rio Geradi Muke (Tester dan Dokumentasi) 
