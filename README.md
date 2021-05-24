@@ -6,4 +6,4 @@ Merupakan project yang dibuat untuk memenuhi Responsi Praktikum Mata Kuliah Pemr
 - Evan Alphario Imanuel 193030503059 (Data Analyst)
 - Kevin Immanuel Rui Costa 193020503030 (Front-end)
 - Elsan Pentanugraha 193030503047 (Back-end)
-- Rio Geradi Muke (Tester dan Dokumentasi)
+- Rio Geradi Muke 193030503051(Tester dan Dokumentasi)
